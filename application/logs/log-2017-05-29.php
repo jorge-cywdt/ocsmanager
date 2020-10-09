@@ -1,0 +1,12 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2017-05-29 10:46:04 --> Severity: Core Warning --> PHP Startup: Unable to load dynamic library '/usr/lib64/php/modules/oci8.so' - /usr/lib64/php/modules/oci8.so: cannot open shared object file: No such file or directory Unknown 0
+ERROR - 2017-05-29 10:46:34 --> Severity: Core Warning --> PHP Startup: Unable to load dynamic library '/usr/lib64/php/modules/oci8.so' - /usr/lib64/php/modules/oci8.so: cannot open shared object file: No such file or directory Unknown 0
+ERROR - 2017-05-29 10:54:33 --> Severity: Core Warning --> PHP Startup: Unable to load dynamic library '/usr/lib64/php/modules/oci8.so' - /usr/lib64/php/modules/oci8.so: cannot open shared object file: No such file or directory Unknown 0
+ERROR - 2017-05-29 11:13:27 --> Severity: Core Warning --> PHP Startup: Unable to load dynamic library '/usr/lib64/php/modules/oci8.so' - /usr/lib64/php/modules/oci8.so: cannot open shared object file: No such file or directory Unknown 0
+ERROR - 2017-05-29 11:16:09 --> Severity: Core Warning --> PHP Startup: Unable to load dynamic library '/usr/lib64/php/modules/oci8.so' - /usr/lib64/php/modules/oci8.so: cannot open shared object file: No such file or directory Unknown 0
+ERROR - 2017-05-29 16:04:19 --> Severity: Core Warning --> PHP Startup: Unable to load dynamic library '/usr/lib64/php/modules/oci8.so' - /usr/lib64/php/modules/oci8.so: cannot open shared object file: No such file or directory Unknown 0
+ERROR - 2017-05-29 16:06:52 --> Severity: Warning --> fopen(http://192.168.8.1/sistemaweb/centralizer_.php?mod=TOTALS_SUMARY_SALE&amp;from=20170527&amp;to=20170527&amp;warehouse_id=201&amp;type_cost=avg): failed to open stream: Connection timed out /var/www/html/ocsmanager/application/helpers/functions_helper.php 72
+ERROR - 2017-05-29 16:06:52 --> Error al conectarse a http://192.168.8.1/sistemaweb/centralizer_.php?mod=TOTALS_SUMARY_SALE&from=20170527&to=20170527&warehouse_id=201&type_cost=avg
+ERROR - 2017-05-29 16:07:06 --> Severity: Core Warning --> PHP Startup: Unable to load dynamic library '/usr/lib64/php/modules/oci8.so' - /usr/lib64/php/modules/oci8.so: cannot open shared object file: No such file or directory Unknown 0
+ERROR - 2017-05-29 17:51:50 --> Severity: Core Warning --> PHP Startup: Unable to load dynamic library '/usr/lib64/php/modules/oci8.so' - /usr/lib64/php/modules/oci8.so: cannot open shared object file: No such file or directory Unknown 0

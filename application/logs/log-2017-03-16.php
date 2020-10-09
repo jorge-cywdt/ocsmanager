@@ -1,0 +1,18 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2017-03-16 09:09:25 --> Severity: Warning --> fopen(http://192.168.13.1/sistemaweb/centralizer_.php?mod=TOTALS_SALE_COMB&from=20170301&to=20170301&warehouse_id=908&qty_sale=kardex&type_cost=avg): failed to open stream: Connection timed out /usr/local/apache/htdocs/ocsmanager/application/helpers/functions_helper.php 68
+ERROR - 2017-03-16 09:09:25 --> Error al conectarse a http://192.168.13.1/sistemaweb/centralizer_.php?mod=TOTALS_SALE_COMB&from=20170301&to=20170301&warehouse_id=908&qty_sale=kardex&type_cost=avg
+ERROR - 2017-03-16 09:09:25 --> Severity: Warning --> arsort() expects parameter 1 to be array, null given /usr/local/apache/htdocs/ocsmanager/application/helpers/functions_helper.php 131
+ERROR - 2017-03-16 09:09:25 --> Severity: Warning --> Invalid argument supplied for foreach() /usr/local/apache/htdocs/ocsmanager/application/helpers/functions_helper.php 134
+ERROR - 2017-03-16 09:15:04 --> Severity: Warning --> fopen(http://192.168.13.1/sistemaweb/centralizer_.php?mod=TOTALS_SALE_COMB&from=20170301&to=20170301&warehouse_id=908&qty_sale=kardex&type_cost=avg): failed to open stream: Connection timed out /usr/local/apache/htdocs/ocsmanager/application/helpers/functions_helper.php 68
+ERROR - 2017-03-16 09:15:04 --> Error al conectarse a http://192.168.13.1/sistemaweb/centralizer_.php?mod=TOTALS_SALE_COMB&from=20170301&to=20170301&warehouse_id=908&qty_sale=kardex&type_cost=avg
+ERROR - 2017-03-16 09:15:04 --> Severity: Warning --> arsort() expects parameter 1 to be array, null given /usr/local/apache/htdocs/ocsmanager/application/helpers/functions_helper.php 131
+ERROR - 2017-03-16 09:15:04 --> Severity: Warning --> Invalid argument supplied for foreach() /usr/local/apache/htdocs/ocsmanager/application/helpers/functions_helper.php 134
+ERROR - 2017-03-16 10:14:53 --> Severity: Warning --> fopen(http://192.168.13.1/sistemaweb/centralizer_.php?mod=TOTALS_SALE_COMB&from=20170301&to=20170301&warehouse_id=908&qty_sale=kardex&type_cost=avg): failed to open stream: Connection timed out /usr/local/apache/htdocs/ocsmanager/application/helpers/functions_helper.php 68
+ERROR - 2017-03-16 10:14:53 --> Error al conectarse a http://192.168.13.1/sistemaweb/centralizer_.php?mod=TOTALS_SALE_COMB&from=20170301&to=20170301&warehouse_id=908&qty_sale=kardex&type_cost=avg
+ERROR - 2017-03-16 10:14:53 --> Severity: Warning --> arsort() expects parameter 1 to be array, null given /usr/local/apache/htdocs/ocsmanager/application/helpers/functions_helper.php 131
+ERROR - 2017-03-16 10:14:53 --> Severity: Warning --> Invalid argument supplied for foreach() /usr/local/apache/htdocs/ocsmanager/application/helpers/functions_helper.php 134
+ERROR - 2017-03-16 10:16:10 --> Severity: Warning --> fopen(http://192.168.7.1/sistemaweb/centralizer_.php?mod=TOTALS_SALE_COMB&from=20170301&to=20170301&warehouse_id=103&qty_sale=kardex&type_cost=avg): failed to open stream: Connection timed out /usr/local/apache/htdocs/ocsmanager/application/helpers/functions_helper.php 68
+ERROR - 2017-03-16 10:16:10 --> Error al conectarse a http://192.168.7.1/sistemaweb/centralizer_.php?mod=TOTALS_SALE_COMB&from=20170301&to=20170301&warehouse_id=103&qty_sale=kardex&type_cost=avg
+ERROR - 2017-03-16 10:16:10 --> Severity: Warning --> arsort() expects parameter 1 to be array, null given /usr/local/apache/htdocs/ocsmanager/application/helpers/functions_helper.php 131
+ERROR - 2017-03-16 10:16:10 --> Severity: Warning --> Invalid argument supplied for foreach() /usr/local/apache/htdocs/ocsmanager/application/helpers/functions_helper.php 134

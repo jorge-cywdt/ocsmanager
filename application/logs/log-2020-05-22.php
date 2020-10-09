@@ -1,0 +1,45 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-05-22 09:35:39 --> $fh Resource id #49
+ERROR - 2020-05-22 09:35:41 --> $fh Resource id #51
+ERROR - 2020-05-22 09:35:44 --> $fh Resource id #53
+ERROR - 2020-05-22 09:35:46 --> $fh Resource id #55
+ERROR - 2020-05-22 09:35:49 --> $fh Resource id #57
+ERROR - 2020-05-22 09:35:52 --> $fh Resource id #59
+ERROR - 2020-05-22 09:35:54 --> $fh Resource id #61
+ERROR - 2020-05-22 09:35:57 --> $fh Resource id #63
+ERROR - 2020-05-22 09:36:11 --> $fh Resource id #49
+ERROR - 2020-05-22 13:44:11 --> Severity: Core Warning --> PHP Startup: Unable to load dynamic library '/usr/lib64/php/modules/oci8.so' - /usr/lib64/php/modules/oci8.so: cannot open shared object file: No such file or directory Unknown 0
+ERROR - 2020-05-22 13:46:19 --> $fh Resource id #49
+ERROR - 2020-05-22 13:46:24 --> $fh Resource id #51
+ERROR - 2020-05-22 13:46:26 --> $fh Resource id #53
+ERROR - 2020-05-22 13:46:29 --> $fh Resource id #55
+ERROR - 2020-05-22 13:46:31 --> $fh Resource id #57
+ERROR - 2020-05-22 13:46:34 --> $fh Resource id #59
+ERROR - 2020-05-22 13:46:37 --> $fh Resource id #61
+ERROR - 2020-05-22 13:46:39 --> $fh Resource id #63
+ERROR - 2020-05-22 13:47:00 --> $fh Resource id #49
+ERROR - 2020-05-22 13:47:03 --> $fh Resource id #51
+ERROR - 2020-05-22 13:47:10 --> $fh Resource id #53
+ERROR - 2020-05-22 13:47:15 --> $fh Resource id #55
+ERROR - 2020-05-22 13:47:25 --> $fh Resource id #57
+ERROR - 2020-05-22 13:47:36 --> $fh Resource id #59
+ERROR - 2020-05-22 13:48:04 --> $fh Resource id #61
+ERROR - 2020-05-22 13:48:08 --> $fh Resource id #63
+ERROR - 2020-05-22 13:50:10 --> $fh Resource id #49
+ERROR - 2020-05-22 13:50:12 --> $fh Resource id #51
+ERROR - 2020-05-22 13:50:15 --> $fh Resource id #53
+ERROR - 2020-05-22 13:50:17 --> $fh Resource id #55
+ERROR - 2020-05-22 13:50:20 --> $fh Resource id #57
+ERROR - 2020-05-22 13:50:23 --> $fh Resource id #59
+ERROR - 2020-05-22 13:50:25 --> $fh Resource id #61
+ERROR - 2020-05-22 13:50:28 --> $fh Resource id #63
+ERROR - 2020-05-22 13:51:05 --> Severity: Core Warning --> PHP Startup: Unable to load dynamic library '/usr/lib64/php/modules/oci8.so' - /usr/lib64/php/modules/oci8.so: cannot open shared object file: No such file or directory Unknown 0
+ERROR - 2020-05-22 13:51:10 --> $fh Resource id #49
+ERROR - 2020-05-22 13:51:12 --> $fh Resource id #51
+ERROR - 2020-05-22 13:51:16 --> $fh Resource id #53
+ERROR - 2020-05-22 13:51:21 --> $fh Resource id #55
+ERROR - 2020-05-22 13:51:24 --> $fh Resource id #57
+ERROR - 2020-05-22 13:51:26 --> $fh Resource id #59
+ERROR - 2020-05-22 13:51:29 --> $fh Resource id #61
+ERROR - 2020-05-22 13:51:32 --> $fh Resource id #63
